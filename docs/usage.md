@@ -1,3 +1,4 @@
 # usage.md
 
 Notes and usage details for agentreach.
+- clarify the setup steps
